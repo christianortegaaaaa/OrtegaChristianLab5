@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OrtegaChristianLab5</string>
+
+    <string name="header">Activity 1</string>
+    <string name="title">Binondo Church</string>
+    <string name="location">Location: Paredes St. at Plaza Calderon de la Barca Binondo, Manila</string>
+    <string name="destination">Distance: 3 km from University of Santo Tomas</string>
+    <string name="btnname">Map</string>
+    <string name="header2">Activity 2</string>
+    <string name="title2">Manila Cathedral</string>
+    <string name="location2">Location: Cabildo cor Beaterio Intramuros, Manila</string>
+    <string name="destination2">Distance: 3.6 km from University of Santo Tomas</string>
+
+
+</resources>
